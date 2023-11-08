@@ -1,5 +1,5 @@
 # My First Synth
- [> my First Synth](https://myFirstSynth.github.io/index.html)
+ [> my First Synth](https://my-first-synth.github.io/index.html)
  
 ## Description
 
