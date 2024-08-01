@@ -8,7 +8,3 @@
 ## Features
 
 * Triggers music note when keys are clicked.
-
-## Goal
-
-* Practice javascript.
